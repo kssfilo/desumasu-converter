@@ -39,7 +39,7 @@ switch command
 		version=pjson.version ? '-'
 
 		console.log """
-		#{appName} [<options>]
+		desumasu-converter [<options>]
 		version #{version}
 		Copyright(c) 2019,kssfilo(https://kanasys.com/tech/)
 
