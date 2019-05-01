@@ -1,6 +1,6 @@
 .SUFFIXES:
 
-APPNAME=desumasuconverter
+APPNAME=desumasu-converter
 VERSION=0.1.0
 
 #=

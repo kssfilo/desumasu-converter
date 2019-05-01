@@ -1,9 +1,9 @@
 {
   "name": "desumasu-converter",
   "description": "Command line filter to convert between Japanese ですます調(敬体) and である調(常体) each other.Able to use as module",
-  "main": "desumasuconverter.js",
+  "main": "desumasu-converter.js",
   "bin": {
-    "desumasuconverter": "./cli.js"
+    "desumasu-converter": "./cli.js"
   },
   "@PARTPIPE@VERKEY@PARTPIPE@": "@PARTPIPE@VERSION@PARTPIPE@",
   "dependencies": {
@@ -21,6 +21,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/kssfilo/desumasuconverter.git"
+    "url": "http://github.com/kssfilo/desumasu-converter.git"
   }
 }

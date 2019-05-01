@@ -1,6 +1,6 @@
 #!/usr/bin/env coffee
 
-DesumasuConverter=require('./desumasuconverter')
+DesumasuConverter=require('./desumasu-converter')
 
 opt=require 'getopt'
 debugConsole=null

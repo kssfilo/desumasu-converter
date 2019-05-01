@@ -1,4 +1,4 @@
-DesumasuConverter
+desumasu-converter
 ==========
 
 Command line filter to convert between Japanese ですます調(敬体) and である調(常体) each other.Able to use as module.
@@ -10,7 +10,7 @@ npmモジュールとしても動作します。
 ## Install
 
 ```
-sudo npm install -g desumasuconveter
+sudo npm install -g desumasu-conveter
 ```
 
 ## Usage
@@ -26,7 +26,7 @@ sudo npm install -g desumasuconveter
 ## Use as module
 
 ```
-var DesumasuConverter=require('desumasuconveter');
+var DesumasuConverter=require('desumasu-converter');
 
 desumasuConverter=new DesumasuConverter();
 
